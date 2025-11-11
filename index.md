@@ -1,4 +1,4 @@
-# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm XDUCK🦆</p>
+# <p align="center"> \*\*Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm XDUCK🦆</p>
 
 **About Me**
 
@@ -18,14 +18,14 @@
 <br/>
 <br/>
 
-
 - 🔭 I’m currently working on Enouvo
 - 📟 I'm a former community leader of GDSC-DUT
-- 🌱 I’m currently learning Flutter, NodeJs
--->
+- 🌱 Flutter & Dart
 
-##### Checkout my game:
+##### Checkout my project:
+
 - <a href="https://lvxduck.github.io/EasterEgg_Demo/"> EasterEgg</a>
+- <a href="https://lvxduck.github.io/mywords"> MyWords - Vocab Chicken</a>
 
 ##### Languages I have used
 
